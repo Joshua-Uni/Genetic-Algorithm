@@ -1,11 +1,12 @@
 # Genetic Algorithm:
 Welcome to my Genetic Algorithm project! This C programming language-based project showcases the power of genetic algorithms in simulating the evolution of a flock of creatures within a predefined environment. By leveraging genetic principles, the flock gradually learns to navigate the environment more efficiently and effectively towards a given target.
 
-Flock before/after learning to navigate environment:
 
 <img width="500" alt="before" src="https://github.com/Joshua-Uni/Genetic-Algorithm/assets/112139913/e121b6cf-5a95-44c7-8093-d261b3d455bc">
 
 <img width="500" alt="after" src="https://github.com/Joshua-Uni/Genetic-Algorithm/assets/112139913/5237341f-a93e-41d8-ad01-aec2561b2828">
+
+Left: 1st generation V.S. Right: 10th generation
 
 
 
