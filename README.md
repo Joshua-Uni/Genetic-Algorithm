@@ -1,6 +1,6 @@
 # Genetic-Algorithm:
 
-Welcome to the Genetic Algorithm for Flock Behavior Optimization project! This C programming language-based project showcases the power of genetic algorithms in simulating the evolution of a flock of creatures within a predefined environment. By leveraging genetic principles, the flock gradually learns to navigate the environment more efficiently and effectively towards a given target.
+Welcome to my Genetic Algorithm project! This C programming language-based project showcases the power of genetic algorithms in simulating the evolution of a flock of creatures within a predefined environment. By leveraging genetic principles, the flock gradually learns to navigate the environment more efficiently and effectively towards a given target.
 
 # Flock Initialization and DNA
 
