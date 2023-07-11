@@ -6,7 +6,7 @@ Welcome to my Genetic Algorithm project! This C programming language-based proje
 
 <img width="500" alt="after" src="https://github.com/Joshua-Uni/Genetic-Algorithm/assets/112139913/5237341f-a93e-41d8-ad01-aec2561b2828">
 
-Left: 1st generation V.S. Right: 10th generation
+1st generation V.S. 10th generation
 
 
 
